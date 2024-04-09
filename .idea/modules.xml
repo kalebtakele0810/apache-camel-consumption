@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apache-camel/apache-camel.iml" filepath="$PROJECT_DIR$/apache-camel/apache-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apache-camel-consumer/apache-camel-consumer.iml" filepath="$PROJECT_DIR$/apache-camel-consumer/apache-camel-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apache-camel-consumption.iml" filepath="$PROJECT_DIR$/.idea/apache-camel-consumption.iml" />
+    </modules>
+  </component>
+</project>
